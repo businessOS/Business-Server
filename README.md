@@ -2,13 +2,24 @@
 
 ## Tecnologys apply
 
-[] React
-[] TypeScript
-[] GraphQL
-[] URQL/Apollo
-[] Node.js
-[] MongoDB
-[] MicroORM/TypeORM
-[] Redis
+[x] React
+
+[x] TypeScript
+
+[x] GraphQL
+
+[x] URQL/Apollo
+
+[x] Node.js
+
+[x] MongoDB
+
+[x] MicroORM/TypeORM
+
+[x] Redis
+
 [] Next.js
+
 [] TypeGraphQL
+
+
